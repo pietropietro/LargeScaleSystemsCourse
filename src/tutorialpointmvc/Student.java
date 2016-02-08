@@ -13,7 +13,7 @@ package tutorialpointmvc;
 public class Student {
     private String rollNo;
     private String name;
-    private int phoneNo;
+    private int phoneNumber;
     public String getRollNo() {
         return rollNo;
     }
