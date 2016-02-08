@@ -15,7 +15,7 @@ public class Student {
     private String name;
     private int phoneNumber;
     public String getRollNo() {
-        return rollNo;
+        return rollNumber;
     }
    
     public void setRollNo(String rollNo) {
